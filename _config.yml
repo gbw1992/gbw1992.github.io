@@ -1,4 +1,10 @@
 theme: jekyll-theme-cayman
 
-title:            Bowie's Page
+title:            Hello Aru
 url:              http://gbw1992.github.com
+
+author:
+    name:         GuoBaoWei
+    email:        273814299@qq.com
+    weibo:        http://weibo.com/273814299/
+description:      "Hello World!"
