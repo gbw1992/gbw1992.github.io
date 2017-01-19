@@ -1,9 +1,10 @@
 theme: jekyll-theme-cayman
 
 title:            Hello Aru
-url:              http://love.balabiu.com
+url:              http://maru.love
 author:
     name:         GuoBaoWei
     email:        273814299@qq.com
     weibo:        http://weibo.com/273814299/
 description:      "Hello World!"
+disqus:           maru Lover
